@@ -5,7 +5,7 @@ const gameContainer = document.getElementById("game-container");
 const flappyImg = new Image();
 flappyImg.src = "img/bird.png";
 
-const FLAP_SPEED = -5;
+const FLAP_SPEED = -4;
 const BIRD_WIDTH = 40;
 const BIRD_HEIGHT = 30;
 const PIPE_WIDTH = 50;
